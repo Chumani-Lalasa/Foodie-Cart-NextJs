@@ -4,7 +4,7 @@ const nextConfig = {
         remotePatterns: [
             {
                 protocol:'https',
-                hostname: '',
+                hostname: 'ap-south-1.graphassets.com',
                 port: '',
                 pathname: '/**'
             }
